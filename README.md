@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elies</h1>
-<h3 align="center">A curious Junior Data Scientist from Barcelona with a kind of mixed background</h3>
+<h3 align="center">A Junior Data Scientist from Barcelona</h3>
 
 - 🔭 I’m currently working on [Barcelona Neighbourhoods Clusterization](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
 
