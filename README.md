@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Elies</h1>
 <h3 align="center">A Junior Data Scientist from Barcelona</h3>
 
-- 🔭 I’m currently working on [Barcelona Neighbourhoods Clusterization](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
+- 🔭 My newbie Project was [Barcelona Neighbourhoods Clusterization](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
 
-- 🌱 I’m currently learning **PowerBI and Tableau**
+- 🌱 I’m currently learning **PowerBI and R**
 
-- 📫 Reach me at **elieslahiguera@gmail.com**
-
-- ⚡ Fun fact **While in the Kindergarten I managed to double lace my shoes, surprised I quickly called the teacher to show her what did I had just "invented".**
+- ⚡ Fun fact **When in the Kindergarten,  I managed to double-knot my shoelaces on purpose (damn, those shoelaces where too long!). 
+Amazed as I was with my very own prowess, I quickly called the teacher to literally show her what did I had  just "invented". I even had already branded a name for it! I liked to call it "double knot"...She laughed then smiled,  told me  the whole truth and  taught me how.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
