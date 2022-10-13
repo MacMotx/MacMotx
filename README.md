@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **PowerBI and Keras**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MacMotx](https://github.com/MacMotx)
-
 - 📫 Reach me at **elieslahiguera@gmail.com**
 
 - ⚡ Fun fact **While in the Kindergarten I managed to double lace my shoes, surprised I quickly called the teacher to show her what did I had just "invented".**
