@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **elieslahiguera@gmail.com**
 
--  Fun fact **While in the Kindergarten I managed to double lace my shoes, surprised I quickly called the teacher to show her what did I had just "invented".**
+- ⚡ Fun fact **While in the Kindergarten I managed to double lace my shoes, surprised I quickly called the teacher to show her what did I had just "invented".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
