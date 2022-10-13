@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elies</h1>
 <h3 align="center">A curious Junior Data Scientist from Barcelona with a kind of mixed background</h3>
 
-- 🔭 I’m currently working on [Barcelona neighbourhoods](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
+- 🔭 I’m currently working on [Barcelona Neighbourhoods Clusterization](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
 
 - 🌱 I’m currently learning **PowerBI and Keras**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MacMotx](https://github.com/MacMotx)
 
-- 📫 How to reach me **elieslahiguera@gmail.com**
+- 📫 Reach me at **elieslahiguera@gmail.com**
 
 - ⚡ Fun fact **While in the Kindergarten I managed to double lace my shoes, surprised I quickly called the teacher to show her what did I had just "invented".**
 
