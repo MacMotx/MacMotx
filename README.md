@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Barcelona Neighbourhoods Clusterization](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
 
-- 🌱 I’m currently learning **PowerBI and Keras**
+- 🌱 I’m currently learning **PowerBI and Tableau**
 
 - 📫 Reach me at **elieslahiguera@gmail.com**
 
