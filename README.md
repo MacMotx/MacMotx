@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **PowerBI and R**
 
 - ⚡ Fun fact **When in the Kindergarten,  I managed to double-knot my shoelaces on purpose (damn, those shoelaces where too long!). 
-Amazed as I was with my very own prowess, I quickly called the teacher to literally show her what did I had  just "invented". I even had already branded a name for it! I liked to call it "double knot"...She laughed then smiled,  told me  the whole truth and  taught me how.**
+Amazed as I was with my very own prowess, I quickly called the teacher to literally show her what did I had  just "invented". I even had already branded a name for it! I liked to call it "double knot"...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
