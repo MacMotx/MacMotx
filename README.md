@@ -3,11 +3,11 @@
 
 - 🧱 My first work is [Clustering Barcelona Neighbourhoods to reveal systemic differences and their trends](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
 
-- 🔭 My First Dataset is [Barcelona Neighbourhoods](https://www.kaggle.com/datasets/macmotx/barcelona-data-airbnb-listings-10-years)
+- 💾 My First Dataset is [Barcelona Neighbourhoods](https://www.kaggle.com/datasets/macmotx/barcelona-data-airbnb-listings-10-years)
 
 - 🐇 Rabbit holes I'm considering now **MongodB, Docker, Pentesting and Web3**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MacMotx](https://github.com/MacMotx)
+-  My projects are available at [https://github.com/MacMotx](https://github.com/MacMotx)
 
 - 😅 True Story **When in the Kindergarten, I managed to double-knot my shoelaces on purpose (damn, those shoelaces where long!). Amazed as I was with my very own prowess, I quickly called the teacher to literally show her what did I had just "invented".🦸‍♂️**
 
