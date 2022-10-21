@@ -5,7 +5,7 @@
 
 - 💾 My First Dataset is [Barcelona Neighbourhoods](https://www.kaggle.com/datasets/macmotx/barcelona-data-airbnb-listings-10-years)
 
-- 🐇 Rabbit holes I'm considering now **MongodB, Docker, Pentesting and Web3**
+- 🐇 Rabbit holes I'm peeking **MongodB, Docker, Pentesting and Web3**
 
 - 📚 My projects are available at [https://github.com/MacMotx](https://github.com/MacMotx)
 
