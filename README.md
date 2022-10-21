@@ -7,7 +7,7 @@
 
 - 🐇 Rabbit holes I'm considering now **MongodB, Docker, Pentesting and Web3**
 
--  My projects are available at [https://github.com/MacMotx](https://github.com/MacMotx)
+- 📚 My projects are available at [https://github.com/MacMotx](https://github.com/MacMotx)
 
 - 😅 True Story **When in the Kindergarten, I managed to double-knot my shoelaces on purpose (damn, those shoelaces where long!). Amazed as I was with my very own prowess, I quickly called the teacher to literally show her what did I had just "invented".🦸‍♂️**
 
