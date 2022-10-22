@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elies</h1>
 <h3 align="center">I'm a Data Scientist from Barcelona, with a background in Clinical Diagnostics and Music studies. I enjoy learning about virtually everything. I also love cozy rainy days and mushroom hunting with my father each year.</h3>
 
-- 🧱 My first work is [Clustering Barcelona Neighbourhoods to reveal systemic differences and their trends](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
+- 🧱 My Capstone Project [Clustering Barcelona Neighbourhoods to reveal systemic differences and their trends](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
 
-- 💾 My First Dataset is [Barcelona Neighbourhoods](https://www.kaggle.com/datasets/macmotx/barcelona-data-airbnb-listings-10-years)
+- 💾 My First Homemade Dataset [Barcelona Neighbourhoods](https://www.kaggle.com/datasets/macmotx/barcelona-data-airbnb-listings-10-years)
 
 - 🐇 Rabbit holes I'm peeking **MongodB, Docker, Pentesting and Web3**
 
