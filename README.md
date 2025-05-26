@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elies</h1>
-<h3 align="center">I'm a Data Scientist from Barcelona, with a background in Clinical Diagnostics and Music studies. I enjoy learning about virtually everything. I also love cozy rainy days and mushroom hunting with my father each year.</h3>
+<h3 align="center">I'm a Data Citizen from Barcelona, with a background in Clinical Diagnostics and Music studies. I enjoy learning about virtually everything. I also love cozy rainy days and mushroom hunting with my father each year.</h3>
 
 - 🧱 My Capstone Project [Time Series Clustering Barcelona Neighbourhoods to reveal systemic differences and their trends](https://github.com/MacMotx/PROJECT_BCN_NEIGHBOURHOODS)
 
